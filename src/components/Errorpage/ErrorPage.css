@@ -1,0 +1,15 @@
+.error-page{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 60vh;
+}
+.status{
+    font-size: 100px;
+    color: #8d99ae;
+    margin: 10px auto;
+}
+.statusText{
+    color: #84a98c;
+}
